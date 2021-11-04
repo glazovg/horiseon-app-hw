@@ -1,5 +1,5 @@
 # Horiseon-app-hw
-![](src/assets/images/horiseon.png)
+![](assets/images/horiseon.png)
 
 Codebase that follows accessibility standards to be optimized for search engines.
 
